@@ -1,5 +1,7 @@
 # AI-Travel-Agent
-A travel agent built on Google's ADK to generate summary of the best flight options.
+A travel agent built on Google's ADK to generate a summary of the best flight options.
+
+[Demo Video Here](https://www.youtube.com/watch?v=2OWZKZO-ySc)
 
 ## Introduction 
 ### 1. Problem Statement
